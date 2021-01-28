@@ -21,7 +21,7 @@ kramdown:
   syntax_highlighter: rouge
 
 # Disqus post comments
-disqus_shortname: tiepvu
+disqus_shortname: dieukhienhoc
 
 # number of posts per page. Should be a number such that total pages >= 5. Well, this 
 # is my choice, there is no specific reason for this.
