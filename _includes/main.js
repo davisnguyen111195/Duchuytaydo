@@ -78,5 +78,5 @@ require(["ga"], function(ga) {
 });
 
 if (typeof disqus_identifer !== "undefined") {
-    require(["//veithen.disqus.com/embed.js"]);
+    require(["//dieukhienhoc.disqus.com/embed.js"]);
 }
