@@ -1,5 +1,5 @@
 Hello,
 
-This is my Machine Learning blog in Vietnamese:
+This is my Control System blog in Vietnamese:
 
-[https://machinelearningcoban.com/](http://machinelearningcoban.com/)
+[https://dieukhienhoc.com/](https://dieukhienhoc.com/)
