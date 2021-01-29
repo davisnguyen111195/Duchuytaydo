@@ -33,3 +33,5 @@ paginate_path: "/page:num/"
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+
+theme: jekyll-theme-dinky
