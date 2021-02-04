@@ -28,7 +28,7 @@ Bức hình này là tổng quan về ngành điện:
 
 <hr>
 <div class = "imgcap">
-    <img src ="/assets/images/nen-tang-ky-thuat-dien.jpg" align="center">
+    <img src ="/assets/images/ly-thuyet-mach-1/nen-tang-ky-thuat-dien.jpg" align="center">
     <div class="thecap">Hình 1: Nền tảng về ngành kỹ thuật điện là lý thuyết mạch và lý thuyết trường.</div>
 </div>
 <hr>
