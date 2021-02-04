@@ -60,4 +60,4 @@ Dòng điện là dòng chuyển dời có hướng của các hạt mang điệ
 
 Định nghĩa chặt chẽ hơn về dòng điện biểu thị theo công thức:
 
-                                        $$i = \frac{dq}{dt}$$
+<div text-align ="center"> $$i = \frac{dq}{dt}$$ </div>
