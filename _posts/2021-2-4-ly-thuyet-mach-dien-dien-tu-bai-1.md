@@ -32,7 +32,7 @@ Bức hình này là tổng quan về ngành điện:
 
 <hr>
 <div class = "imgcap">
-    <img src ="/assets/images/ly-thuyet-mach-1/nen-tang-ky-thuat-dien.jpg" align="center">
+    <img src ="/assets/images/ly-thuyet-mach-1/nen-tang-ky-thuat-dien.jpg" style="align:center">
     <div class="thecap">Hình 1: Tổng quan về ngành kỹ thuật điện.</div>
 </div>
 <hr>
@@ -48,7 +48,7 @@ Vậy điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn h
 
 <hr>
 <div class = "imgcap">
-    <img src ="/assets/images/ly-thuyet-mach-1/cau-tao-co-ban-cua-nguyen-tu.png" align="center">
+    <img src ="/assets/images/ly-thuyet-mach-1/cau-tao-co-ban-cua-nguyen-tu.png" style="align:center">
     <div class="thecap">Hình 2: Cấu tạo cơ bản của nguyên tử</div>
 </div>
 <hr>
