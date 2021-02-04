@@ -12,7 +12,7 @@ Tôi là Nguyễn Tiến Đạt, mọi người thường gọi tôi là Tiểu 
 
 <!-- Các thông tin khác về tôi có thể được tim thấy ở [website học thuật của tôi](http://www.personal.psu.edu/thv102/), hoặc [Linkedin của tôi](https://www.linkedin.com/in/tiephuuvu/). Tôi rất vui nếu bạn có thể giúp tôi 'endorse' một vài 'skills' mà bạn nghĩ rằng tôi có. -->
 
-Tôi viết blog này với hai mục đích chính. Một là tổng hợp lại các kiến thức của bản thân về Điều khiển học. Hai là tôi có mong muốn mang Ngành điều khiển tới càng nhiều bạn đọc Việt Nam càng tốt, vì đây là một ngành lâu đời cho đến tận bây giờ vẫn đang được phát triển ứng dụng rộng rãi.
+Tôi viết blog này với hai mục đích chính. Một là tổng hợp lại các kiến thức của bản thân về Điều Khiển Học. Hai là tôi có mong muốn mang Ngành điều khiển tới càng nhiều bạn đọc Việt Nam càng tốt, vì đây là một ngành lâu đời cho đến tận bây giờ vẫn đang được phát triển ứng dụng rộng rãi.
 
 Khi chuẩn bị các bài viết, tôi sẽ giả định rằng bạn đọc có một chút kiến thức về Đại Số Tuyến Tính, Giải tích, Xác Suất Thống Kê, giải tích mạch, ... và có kinh nghiệm về lập trình. Nếu bạn chưa có nhiều kinh nghiệm về các lĩnh vực này, đừng quá lo lắng vì mỗi bài sẽ chỉ sử dụng một vài kỹ thuật cơ bản. Tôi rất vui được trao đổi thêm với các bạn ở phần Comment cuối mỗi bài.
 

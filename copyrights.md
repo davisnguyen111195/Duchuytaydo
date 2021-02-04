@@ -6,7 +6,7 @@ permalink: /copyrights/
 
 Toàn bộ nội dung trong bài, source code, và hình ảnh minh họa (trừ nội dung có trích dẫn) đều thuộc bản quyền của Tiểu Đạt.
 
-Tôi rất mong muốn kiến thức tôi viết trong blog này đến được với nhiều người. Tuy nhiên, tôi không ủng hộ bất kỳ một hình thức sao chép không trích nguồn nào. Mọi nguồn tin trích đăng bài viết cần nêu rõ tên blog ([Điều khiển học](https://dieukhienhoc.com)), tên tác giả (Tiểu Đạt), và kèm link gốc của bài viết. **Các bài viết trích dẫn quá 25% toàn văn bất kỳ một post nào trong blog này là không được phép**, trừ trường hợp có sự đồng ý của tác giả. 
+Tôi rất mong muốn kiến thức tôi viết trong blog này đến được với nhiều người. Tuy nhiên, tôi không ủng hộ bất kỳ một hình thức sao chép không trích nguồn nào. Mọi nguồn tin trích đăng bài viết cần nêu rõ tên blog ([Điều Khiển Học](https://dieukhienhoc.com)), tên tác giả (Tiểu Đạt), và kèm link gốc của bài viết. **Các bài viết trích dẫn quá 25% toàn văn bất kỳ một post nào trong blog này là không được phép**, trừ trường hợp có sự đồng ý của tác giả. 
 
 Cụ thể hơn:
 
