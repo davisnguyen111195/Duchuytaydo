@@ -339,10 +339,10 @@ address {
 
 
 .tag:hover {
-  background-color: $myblue;
+  background-color: $mygreen;
   color: white;
 }
 
 .tag:hover::after {
-   border-left-color: $myblue; 
+   border-left-color: $mygreen; 
 }

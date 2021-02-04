@@ -392,9 +392,9 @@ $navbar-default-toggle-border-color:       #ddd !default;
 // Reset inverted navbar basics
 $navbar-inverse-color:                      lighten($gray-light, 15%) !default;
 /*$navbar-inverse-bg:                         #222 !default;*/
-$navbar-inverse-bg:                         $myblue;
+$navbar-inverse-bg:                         $mygreen;
 /*$navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;*/
-$navbar-inverse-border:                     $myblue;
+$navbar-inverse-border:                     $mygreen;
 
 // Inverted navbar links
 $navbar-inverse-link-color:                 lighten($gray-light, 15%) !default;
