@@ -10,7 +10,7 @@ tags: Lý-thuyết-mạch Điện Điện-tử Giải-tích-mạch
 category: Điện
 sc_project: 12473858
 sc_security: 2277ef59
-img: /assets/images/ly-thuyet-mach-1/thong-so-va-phan-tu-co-ban-trong-mach-dien.png
+img: /assets/images/ly-thuyet-mach-1/nen-tang-ky-thuat-dien.jpg
 summary: Giới thiệu về thông số mạch, phần tử cơ bản hay dùng trong các bài toán lý thuyết mạch điện - điện tử, giải tích mạch.
 ---
 
@@ -32,3 +32,5 @@ Bức hình này là tổng quan về ngành điện:
     <div class="thecap">Hình 1: Tổng quan về ngành kỹ thuật điện.</div>
 </div>
 <hr>
+
+
