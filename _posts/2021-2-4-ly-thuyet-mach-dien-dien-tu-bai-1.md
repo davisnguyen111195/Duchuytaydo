@@ -25,6 +25,7 @@ Mục lục:
 
 ## 1. Giới thiệu
 Lý thuyết mạch là cơ sở của ngành kỹ thuật điện. Khi nghiên cứu về lý thuyết mạch ta có thể hiểu được các nhánh ứng dụng khác như hệ thống điện, máy điện, đo lường, điều khiển, điện tử viễn thông,... 
+
 __Để học tốt các môn chuyên ngành, hãy học tốt lý thuyết mạch.__
 
 Bức hình này là tổng quan về ngành điện:
