@@ -1,10 +1,10 @@
 ---
 layout: post
 comments: true
-title: "Lý thuyết mạch điện - điện tử bài 1: Thông số và phần tử trong mạch điện"
+title: "Lý thuyết mạch điện - điện tử bài 1: Thông số và phần tử cơ bản trong mạch điện"
 title2: 
 date: 2021-02-04 17:00:00
-permalink: 2021/02/04/ly-thuyet-mach-dien-dien-tu-bai-1-thong-so-va-phan-tu-trong-mach-dien/
+permalink: 2021/02/04/ly-thuyet-mach-dien-dien-tu-bai-1-thong-so-va-phan-tu-co-ban-trong-mach-dien/
 mathjax: true
 tags: Lý-thuyết-mạch Điện Điện-tử Giải-tích-mạch
 category: Điện
