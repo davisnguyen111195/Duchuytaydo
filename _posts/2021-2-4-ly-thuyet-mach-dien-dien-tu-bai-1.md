@@ -51,3 +51,10 @@ Vậy điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn h
 </div>
 <hr>
 
+<a name = "-dong-dien"></a>
+
+### 2.2 Dòng điện
+Dòng điện là dòng chuyển dời có hướng của các hạt mang điện tích. Chúng ta luôn có điện tích dương và âm, cả hai đều luôn có xu hướng chuyển động người chiều nhau. Quy ước chiều của dòng điện là chiều của các hạt mang điện tích dương.
+
+Định nghĩa chặt chẽ hơn về dòng điện biểu thị theo công thức:
+$i = \frac{dq}{dt}$
