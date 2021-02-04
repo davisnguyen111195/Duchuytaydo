@@ -16,7 +16,7 @@ summary: Giới thiệu về thông số mạch, phần tử cơ bản hay dùng
 
 
 <!-- MarkdownTOC -->
-
+- [1. Giới thiệu](#-gioi-thieu)
 <!-- /MarkdownTOC -->
 
 <a name ="-gioi-thieu"></a>
