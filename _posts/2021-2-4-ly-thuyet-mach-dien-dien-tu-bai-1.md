@@ -14,9 +14,11 @@ img: /assets/images/ly-thuyet-mach-1/nen-tang-ky-thuat-dien.jpg
 summary: Giới thiệu về thông số mạch, phần tử cơ bản hay dùng trong các bài toán lý thuyết mạch điện - điện tử, giải tích mạch.
 ---
 
-
+Mục lục:
 <!-- MarkdownTOC -->
 - [1. Giới thiệu](#-gioi-thieu)
+- [2. Đối tượng nghiên cứu mạch điện](#-doi-tuong)
+    - [2.1. Điện tích](#-dien-tich)
 <!-- /MarkdownTOC -->
 
 <a name ="-gioi-thieu"></a>
@@ -33,4 +35,19 @@ Bức hình này là tổng quan về ngành điện:
 </div>
 <hr>
 
+<a name = "-doi-tuong"></a>
+
+## 2. Đối tượng nghiên cứu mạch điện
+
+<a name = "-dien-tich"></a>
+
+### 2.1 Điện tích
+Vậy điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn hãy nhìn xuống hình bên dưới để xem mô hình hóa của một nguyên tử gồm: Proton, Electron, Neutron. Ta quy ước rằng các Electron mang điện tích âm (-), các Proton mang điện tích dương (+), và cuối cùng Neuton không mang điện. Vậy khi các điện tích cùng dấu thì sẽ đẩy nhau, ngược lại các điện tích trái dấu thì sẽ hút nhau.
+
+<hr>
+<div class = "imgcap">
+    <img src ="/assets/images/cau-tao-co-ban-cua-nguyen-tu.png" align="center">
+    <div class="thecap">Hình 1: Cấu tạo cơ bản của nguyên tử</div>
+</div>
+<hr>
 
