@@ -46,7 +46,7 @@ Vậy điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn h
 
 <hr>
 <div class = "imgcap">
-    <img src ="/assets/images/cau-tao-co-ban-cua-nguyen-tu.png" align="center">
+    <img src ="/assets/images/ly-thuyet-mach-1/cau-tao-co-ban-cua-nguyen-tu.png" align="center">
     <div class="thecap">Hình 1: Cấu tạo cơ bản của nguyên tử</div>
 </div>
 <hr>
