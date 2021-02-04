@@ -40,7 +40,7 @@ sc_security:
 .input-group button{
     width: 100px;
     height: 30px;
-    /*background-color: #074B80;*/
+    /*background-color: #2f632f;*/
 }
 #search_results {
 	/*margin-top: 10px;*/
