@@ -15,4 +15,20 @@ summary: Giới thiệu về thông số mạch, phần tử cơ bản hay dùng
 ---
 
 
+<!-- MarkdownTOC -->
 
+<!-- /MarkdownTOC -->
+
+<a name ="-gioi-thieu"></a>
+
+## 1. Giới thiệu
+Lý thuyết mạch là cơ sở của ngành kỹ thuật điện. Khi nghiên cứu về lý thuyết mạch ta có thể hiểu được các nhánh ứng dụng khác như hệ thống điện, máy điện, đo lường, điều khiển, điện tử viễn thông,...
+
+Bức hình này là tổng quan về ngành điện:
+
+<hr>
+<div class = "imgcap">
+    <img src = "/assets/images/nen-tang-ky-thuat-dien.jpg" align = "center">
+    <div class=thecap>Hình 1: Nền tảng về ngành kỹ thuật điện là lý thuyết mạch và lý thuyết trường.</div>
+</div>
+<hr>
