@@ -2,8 +2,8 @@
 layout: post
 title: About
 permalink: /about/
-sc_project: 11387860
-sc_security: bf94eebb
+sc_project: 12473858
+sc_security: 2277ef59
 ---
 
 Cảm ơn bạn đã ghé thăm blog của tôi. 
