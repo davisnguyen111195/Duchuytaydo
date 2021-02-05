@@ -44,7 +44,7 @@ Bức hình này là tổng quan về ngành điện:
 <a name = "-dien-tich"></a>
 
 ### 2.1 Điện tích
-Vậy điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn hãy nhìn xuống hình bên dưới để xem mô hình hóa của một nguyên tử gồm: Proton, Electron, Neutron. Ta quy ước rằng các Electron mang điện tích âm (-), các Proton mang điện tích dương (+), và cuối cùng Neuton không mang điện. Các điện tích cùng dấu thì sẽ đẩy nhau, ngược lại các điện tích trái dấu thì sẽ hút nhau.
+Vậy điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn hãy nhìn xuống hình bên dưới để xem mô hình hóa của một nguyên tử gồm: Proton, Electron, Neutron. Ta quy ước rằng các Electron mang điện tích âm(-), các Proton mang điện tích dương(+), và cuối cùng Neuton không mang điện. Các điện tích cùng dấu thì sẽ đẩy nhau, ngược lại các điện tích trái dấu thì sẽ hút nhau.
 
 <hr>
 <div class = "imgcap">
@@ -56,7 +56,7 @@ Vậy điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn h
 <a name = "-dong-dien"></a>
 
 ### 2.2 Dòng điện
-Dòng điện là dòng chuyển dời có hướng của các hạt mang điện tích. Chúng ta luôn có điện tích dương và âm, cả hai đều luôn có xu hướng chuyển động người chiều nhau. Quy ước chiều của dòng điện là chiều của các hạt mang điện tích dương.
+Dòng điện là dòng chuyển dời có hướng của các hạt mang điện tích. Điện tích dương và âm luôn có xu hướng chuyển động ngược chiều nhau. Quy ước chiều của dòng điện là chiều của các hạt mang điện tích dương.
 
 Định nghĩa chặt chẽ hơn về dòng điện biểu thị theo công thức:
 
