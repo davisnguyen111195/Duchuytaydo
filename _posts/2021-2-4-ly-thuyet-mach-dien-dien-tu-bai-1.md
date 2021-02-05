@@ -10,7 +10,7 @@ tags: Lý-thuyết-mạch Điện Điện-tử Giải-tích-mạch
 category: Điện
 sc_project: 12473858
 sc_security: 2277ef59
-image: /assets/images/ly-thuyet-mach-1/nen-tang-ky-thuat-dien.jpg
+img: /assets/images/ly-thuyet-mach-1/nen-tang-ky-thuat-dien.jpg
 summary: Giới thiệu về thông số mạch, phần tử cơ bản hay dùng trong các bài toán lý thuyết mạch điện - điện tử, giải tích mạch.
 ---
 
