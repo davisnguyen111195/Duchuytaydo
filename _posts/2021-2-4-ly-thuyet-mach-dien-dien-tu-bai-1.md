@@ -6,7 +6,7 @@ title2:
 date: 2021-02-04 17:00:00
 permalink: 2021/02/04/ly-thuyet-mach-dien-dien-tu-bai-1-thong-so-va-phan-tu-co-ban-trong-mach-dien/
 mathjax: true
-tags: Lý thuyết mạch,
+tags: Lý-thuyết-mạch
 category: Điện
 sc_project: 12473858
 sc_security: 2277ef59
