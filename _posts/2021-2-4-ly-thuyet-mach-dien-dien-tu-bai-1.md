@@ -23,7 +23,9 @@ Mục lục:
 <!-- MarkdownTOC -->
 - [1. Giới thiệu](#-gioi-thieu)
 - [2. Đối tượng nghiên cứu mạch điện](#-doi-tuong)
-    - [2.1. Điện tích](#-dien-tich)
+    - [2.1. Điện tích là gì?](#-dien-tich-la-gi)
+    - [2.2. Dòng điện là gì?](#-dong-dien-la-gi)
+    - [2.3. Điện áp là gì?](#-dien-ap-la-gi)
 <!-- /MarkdownTOC -->
 
 <a name ="-gioi-thieu"></a>
@@ -46,10 +48,10 @@ Bức hình này là tổng quan về ngành điện:
 
 ## 2. Đối tượng nghiên cứu mạch điện
 
-<a name = "-dien-tich"></a>
+<a name = "-dien-tich-la-gi"></a>
 
-### 2.1. Điện tích
-Điện tích là gì? Rất khó cắt nghĩa điện tích. Các bạn hãy nhìn xuống hình bên dưới để xem mô hình hóa của một nguyên tử gồm: _Proton, Electron, Neutron_. Ta quy ước rằng các Electron mang điện tích âm(-), các Proton mang điện tích dương(+), và cuối cùng Neuton không mang điện. Các điện tích cùng dấu thì sẽ đẩy nhau, ngược lại các điện tích trái dấu thì sẽ hút nhau.
+### 2.1. Điện tích là gì?
+Rất khó cắt nghĩa điện tích. Các bạn hãy nhìn xuống hình bên dưới để xem mô hình hóa của một nguyên tử gồm: _Proton, Electron, Neutron_. Ta quy ước rằng các Electron mang điện tích âm(-), các Proton mang điện tích dương(+), và cuối cùng Neuton không mang điện. Các điện tích cùng dấu thì sẽ đẩy nhau, ngược lại các điện tích trái dấu thì sẽ hút nhau.
 
 <hr>
 <div class = "imgcap">
@@ -58,9 +60,9 @@ Bức hình này là tổng quan về ngành điện:
 </div>
 <hr>
 
-<a name = "-dong-dien"></a>
+<a name = "-dong-dien-la-gi"></a>
 
-### 2.2. Dòng điện
+### 2.2. Dòng điện là gì?
 Dòng điện là dòng chuyển dời có hướng của các hạt mang điện tích. Điện tích dương và âm luôn có xu hướng chuyển động ngược chiều nhau. Quy ước chiều của dòng điện là chiều chuyển dời của các hạt mang điện tích dương.
 
 Định nghĩa chặt chẽ hơn về dòng điện biểu thị theo công thức:
@@ -86,20 +88,20 @@ Ta sẽ xét với 2 kiểu dòng điện chính:
 <div>
 <table width = "100%" style = "border: 0px solid gray">
    <tr >
-        <td width="40%" style = "border: 0px solid gray"> 
+        <td width="40%" style = "border: 0px solid white"> 
         <img style="display:block;" width = "100%" src = "/assets/images/ly-thuyet-mach-1/dong-dien-mot-chieu-dc-current.png">
         <div class="thecap">Hình 5: Dòng điện một chiều - DC Current</div>
          </td>
-        <td width="40%" style = "border: 0px solid gray">
+        <td width="40%" style = "border: 0px solid white">
         <img style="display:block;" width = "100%" src = "/assets/images/ly-thuyet-mach-1/dong-dien-xoay-chieu-ac-current.png">
         <div class="thecap">Hình 6: Dòng điện xoay chiều - AC Current</div>
         </td>
     </tr>
     <tr>
-        <td width="40%" style = "border: 2px solid gray">
+        <td width="40%" style = "border: 0px solid white">
         <div style="text-align:left">Dòng điện một chiều là dòng điện không thay đổi về giá trị theo thời gian.</div>
         </td>
-        <td width="40%" style = "border: 2px solid gray">
+        <td width="40%" style = "border: 0px solid white">
         <div style="text-align:left">Dòng điện xoay chiều là dòng điện biến thiên theo quy luật hình sin.</div>
         </td>
     </tr>
@@ -107,8 +109,8 @@ Ta sẽ xét với 2 kiểu dòng điện chính:
 </div>
 <hr>
 
-<a name = "-dien-ap"></a>
+<a name = "-dien-ap-la-gi"></a>
 
-### 2.3. Điện áp.
+### 2.3. Điện áp là gì?
 
 
