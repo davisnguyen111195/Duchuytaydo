@@ -75,7 +75,7 @@ Dòng điện là dòng chuyển dời có hướng của các hạt mang điệ
 </div>
 </hr>
 
-Mỗi một dòng điện chạy qua phần tử mạch nào đó, thì ta sẽ biểu thị bằng biểu tượng hình dưới. Mũi tên chỉ chiều chuyển động của các điện tích dương. Bên cạnh mũi tên thì dùng chữ ký hiệu _i_, hoặc một con số biểu thị giá trị của dòng điện.
+Mỗi một dòng điện chạy qua phần tử mạch nào đó, thì ta sẽ biểu thị bằng biểu tượng mũi tên. Mũi tên chỉ chiều chuyển động của các điện tích dương. Bên cạnh mũi tên thì dùng chữ ký hiệu _i_, hoặc một con số biểu thị giá trị của dòng điện.
 
 <div class = "imgcap">
     <img src = "/assets/images/ly-thuyet-mach-1/bieu-tuong-dong-dien-trong-mach-dien.PNG" style = "align:center">
@@ -98,7 +98,7 @@ Ta sẽ xét với 2 kiểu dòng điện chính:
     </tr>
     <tr>
         <td width="40%" style = "border: 0px solid white">
-        <div style="text-align:center">Dòng điện một chiều là dòng điện không thay đổi về giá trị theo thời gian. KHÔNG BAO GIỜ THAY ĐỔI GIÁ TRỊ</div>
+        <div style="text-align:center">Dòng điện một chiều là dòng điện không thay đổi về giá trị theo thời gian.</div>
         </td>
         <td width="40%" style = "border: 0px solid white">
         <div style="text-align:center">Dòng điện xoay chiều là dòng điện biến thiên theo quy luật hình sin.</div>
