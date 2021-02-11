@@ -84,22 +84,22 @@ Mỗi một dòng điện chạy qua phần tử mạch nào đó, thì ta sẽ 
 Ta sẽ xét với 2 kiểu dòng điện chính:
 <hr>
 <div>
-<table width = "100%" style = "border: 0px solid white">
+<table width = "100%" style = "border: 0px solid gray">
    <tr >
-        <td width="40%" style = "border: 0px solid white"> 
+        <td width="40%" style = "border: 0px solid gray"> 
         <img style="display:block;" width = "100%" src = "/assets/images/ly-thuyet-mach-1/dong-dien-mot-chieu-dc-current.png">
         <div class="thecap">Hình 5: Dòng điện một chiều - DC Current</div>
          </td>
-        <td width="40%" style = "border: 0px solid white">
+        <td width="40%" style = "border: 0px solid gray">
         <img style="display:block;" width = "100%" src = "/assets/images/ly-thuyet-mach-1/dong-dien-xoay-chieu-ac-current.png">
         <div class="thecap">Hình 6: Dòng điện xoay chiều - AC Current</div>
         </td>
     </tr>
     <tr>
-        <td width="40%" style = "border: 0px solid white">
+        <td width="40%" style = "border: 0px solid gray">
         <div style="text-align:left">Dòng điện một chiều là dòng điện không thay đổi về giá trị theo thời gian.</div>
         </td>
-        <td width="40%" style = "border: 0px solid white">
+        <td width="40%" style = "border: 0px solid gray">
         <div style="text-align:left">Dòng điện xoay chiều là dòng điện biến thiên theo quy luật hình sin.</div>
         </td>
     </tr>
