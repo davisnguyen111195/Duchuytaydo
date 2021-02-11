@@ -67,23 +67,22 @@ Dòng điện là dòng chuyển dời có hướng của các hạt mang điệ
 
 <div style="text-align:center"> $$i = \frac{dq}{dt}$$ </div>
 Đơn vị cường độ dòng điện là _Ampe_ - ký hiệu _A_
-
 <hr>
 <div class = "imgcap">
     <img src = "/assets/images/ly-thuyet-mach-1/mo-hinh-don-gian-dien-tich-chay-qua-nguyen-tu-tao-ra-dong-dien.gif" style = "align:center">
     <div class="thecap">Hình 3: Mô hình điện tích chạy qua nguyên tử tạo ra dòng điện</div>
 </div>
-</hr>
-
+<hr>
 Mỗi một dòng điện chạy qua phần tử mạch nào đó, thì ta sẽ biểu thị bằng biểu tượng mũi tên. Mũi tên chỉ chiều chuyển động của các điện tích dương. Bên cạnh mũi tên thì dùng chữ ký hiệu _i_, hoặc một con số biểu thị giá trị của dòng điện.
-
+<hr>
 <div class = "imgcap">
     <img src = "/assets/images/ly-thuyet-mach-1/bieu-tuong-dong-dien-trong-mach-dien.PNG" style = "align:center">
     <div class="thecap">Hình 4: Biểu tượng dòng điện được ký hiệu trong bản vẽ</div>
 </div>
-
+<hr>
 
 Ta sẽ xét với 2 kiểu dòng điện chính:
+<hr>
 <div>
 <table width = "100%" style = "border: 0px solid white">
    <tr >
@@ -106,6 +105,7 @@ Ta sẽ xét với 2 kiểu dòng điện chính:
     </tr>
 </table> 
 </div>
+<hr>
 
 <a name = "-dien-ap"></a>
 
