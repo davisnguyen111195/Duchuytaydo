@@ -96,10 +96,10 @@ Ta sẽ xét với 2 kiểu dòng điện chính:
         </td>
     </tr>
     <tr>
-        <td width="40%" style = "border: 0px solid gray">
+        <td width="40%" style = "border: 2px solid gray">
         <div style="text-align:left">Dòng điện một chiều là dòng điện không thay đổi về giá trị theo thời gian.</div>
         </td>
-        <td width="40%" style = "border: 0px solid gray">
+        <td width="40%" style = "border: 2px solid gray">
         <div style="text-align:left">Dòng điện xoay chiều là dòng điện biến thiên theo quy luật hình sin.</div>
         </td>
     </tr>
