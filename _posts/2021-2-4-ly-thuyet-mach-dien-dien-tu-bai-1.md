@@ -16,7 +16,9 @@ summary: Giới thiệu về thông số mạch, phần tử cơ bản hay dùng
 __Blog này mình viết cho 2 đối tượng chính:__
 - Những bạn nhập môn.
 - Những bạn đã có nền tảng vững.
+
 _Đối với những bạn đã có nền tảng vững, nếu thấy những bài viết nào đó quá cơ bản hãy bỏ qua và nhảy thẳng vào những bài mà các bạn cho là phù hợp._
+
 Mục lục:
 <!-- MarkdownTOC -->
 - [1. Giới thiệu](#-gioi-thieu)
