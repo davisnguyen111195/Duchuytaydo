@@ -185,7 +185,7 @@ Công thức định nghĩa:
 
 ### 2.5. Công suất tức thời
 
-Từ công thức tính công suất P theo định nghĩa ta nhân cả tử số và mẫu với với dq không làm thay đổi phân số ban đầu.
+Từ công thức tính công suất P theo định nghĩa ta nhân cả tử số và mẫu với với _dq_ không làm thay đổi phân số ban đầu.
 
 <div style = "text-align:center">$$p = \frac{dw}{dq} . \frac{dq}{dt}$$</div>
 
