@@ -26,6 +26,9 @@ Mục lục:
     - [2.1. Điện tích là gì?](#-dien-tich-la-gi)
     - [2.2. Dòng điện là gì?](#-dong-dien-la-gi)
     - [2.3. Điện áp là gì?](#-dien-ap-la-gi)
+    - [2.4. Công suất là gì?](#-cong-suat-la-gi)
+    - [2.4. Công suất tức thời](#-cong-suat-tuc-thoi)
+- [3. Tài liệu tham khảo](#-tai-lieu-tham-khao)
 <!-- /MarkdownTOC -->
 
 <a name ="-gioi-thieu"></a>
