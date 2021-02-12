@@ -123,7 +123,7 @@ Ta sẽ xét với 2 kiểu dòng điện chính:
 
 Công thức định nghĩa về điện áp: 
 
-<div style="text-align:center">$$u = \frac{dw}{dq}$$ (V)</div>
+<div style="text-align:center">$$u = \frac{dw}{dq}$$</div>
 
 -_w là năng lượng_
 -_q là điện tích_
@@ -172,7 +172,7 @@ Công suất là lượng năng lượng của mạch điện, đối tượng, 
 
 Công thức định nghĩa:
 
-<div style = "text-align:center">$$p = \frac{dw}{dt}$$ (W)</div>
+<div style = "text-align:center">$$p = \frac{dw}{dt}$$</div>
 
 - w là năng lượng
 - Thời gian t đang xét
