@@ -128,11 +128,11 @@ Công thức định nghĩa về điện áp:
 
 <div style="text-align:center">$$u = \frac{dw}{dq}$$</div>
 
--_w là năng lượng_
--_q là điện tích_
--_đơn vị điện áp là V - đọc là Vôn_
+- w là năng lượng
+- q là điện tích
+- đơn vị điện áp là V - đọc là Vôn
 
-Để biểu thị điện áp của một phần tử mạch nào đó ta vẽ một mũi tên song song với phần tử đang xét có chiều từ điện áp cao sang điện áp thấp và ký hiệu chữ cái _u_(giống như có chiều từ mức nước cao sang mức nước thấp) bên cạnh mũi tên đó ta viết một giá trị, một con số biểu thị điện áp.
+Để biểu thị điện áp của một phần tử mạch nào đó ta vẽ một mũi tên song song với phần tử đang xét có chiều từ điện áp cao sang điện áp thấp và ký hiệu chữ cái _u_ (giống như có chiều từ mức nước cao sang mức nước thấp) bên cạnh mũi tên đó ta viết một giá trị, một con số biểu thị điện áp.
 
 <hr>
 <div class = "imgcap">
@@ -171,7 +171,7 @@ Tương tự như dòng điện ta xét 2 kiểu điện áp chính
 <a name = "-cong-suat-la-gi">
 
 ### 2.4. Công suất là gì?
-Công suất là lượng năng lượng của mạch điện, đối tượng, phần tử phát ra hoặc nhận vế trong một giây đồng hồ. Công suất được ký hiệu là P
+Công suất là lượng năng lượng của đối tượng, phần tử, mạch điện phát ra hoặc nhận về trong một giây đồng hồ. Công suất được ký hiệu là P
 
 Công thức định nghĩa:
 
@@ -185,7 +185,7 @@ Công thức định nghĩa:
 
 ### 2.5. Công suất tức thời
 
-Từ công thức tính công suất P theo định nghĩa ta nhân cả tử số và mẫu với với _dq_ không làm thay đổi phân số ban đầu.
+Từ công thức tính công suất P ta nhân cả tử số và mẫu với với _dq_ không làm thay đổi phân số ban đầu.
 
 <div style = "text-align:center">$$p = \frac{dw}{dq} . \frac{dq}{dt}$$</div>
 
@@ -197,7 +197,7 @@ Nên ta có công thức tính công suất tức thời thay đổi theo thời
 
 <div style = "text-align:center">$$p = ui$$</div>
 
-__Kết luận__: Một vật chỉ phát hoặc thu năng lượng điện khi có cả dòng và áp, nếu thiếu một trong hai yếu tố dòng và áp thì đối lượng đó không thể hoạt động được.
+__Kết luận__: Một vật chỉ phát hoặc thu năng lượng điện khi có cả dòng và áp, nếu thiếu một trong hai yếu tố này thì đối lượng đó không thể hoạt động được.
 
 __Chiều của công suất__: 
 
@@ -211,7 +211,7 @@ __Chiều của công suất__:
          </td>
         <td width="40%" style = "border: 0px solid white">
         <img style="display:block;" width = "100%" src = "/assets/images/ly-thuyet-mach-1/dien-ap-dong-dien-nguoc-chieu-nhau.PNG">
-        <div class="thecap">Hình 1: Điện áp và dòng điện ngược chiều nhau</div>
+        <div class="thecap">Hình 11: Điện áp và dòng điện ngược chiều nhau</div>
         </td>
     </tr>
     <tr>
